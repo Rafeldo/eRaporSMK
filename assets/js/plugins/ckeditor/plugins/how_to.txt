@@ -1,0 +1,35 @@
+Installation:
+
+
+1 - 	copy the folders: mp3player AND youtube   to: ckeditor/plugins/
+
+2 - 	copy file: player_mp3.swf to you woking directory: where you call the contents of ckeditor
+	example: if you have a page called view.php or view.html , then the file: player_mp3.swf must be in same directory. like this:
+
+	my_dir/view.php
+	my_dir/view.html
+	my_dir/any_thing.html
+	my_dir/player_mp3.swf
+
+3 - 	open ckeditor main config file: config.js or (edit your config code)
+	the load the plugins: 
+	config.extraPlugins = "youtube,mp3player";
+	and add them to toolbar : 
+	{ name: 'insert',      items : [ 'Youtube','Mp3Player'] },
+
+4-	config.js is an example of source ckeditor with theattached plugins
+
+Note:
+	by default the mp3 player is set to autoplay
+ 	to change it: open: ckeditor/plugins/mp3player/dialogs/mp3player.js
+	go to line: 21 look for: autoplay=1 change  to: autoplay=0
+
+
+ good luck to all
+ 
+ Mohammed Ahmed
+ IntroTik
+ Gaza, Palestine
+ Email: maa@intro.ps
+ Mobile: +970598505800
+ Tel: +97082884379

@@ -1,0 +1,448 @@
+Update data pengaturan umum, ID:1, User: admin, Waktu :12-04-17 14:32:41
+Tambah data rombongan belajar, ID:1, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:2, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:3, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:4, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:5, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:6, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:7, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:8, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:9, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:10, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:11, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:12, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:13, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:14, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:15, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:16, User: admin, Waktu :12-04-17 15:03:08
+Tambah data rombongan belajar, ID:17, User: admin, Waktu :12-04-17 15:03:09
+Tambah data rombongan belajar, ID:18, User: admin, Waktu :12-04-17 15:03:09
+Update data pengaturan umum, ID:1, User: admin, Waktu :12-04-17 15:25:23
+Update data pengaturan umum, ID:1, User: admin, Waktu :12-04-17 15:50:39
+Tambah data guru, ID:1, User: admin, Waktu :14-04-17 20:00:58
+Tambah data guru, ID:2, User: admin, Waktu :14-04-17 20:00:58
+Tambah data guru, ID:3, User: admin, Waktu :14-04-17 20:00:58
+Tambah data guru, ID:4, User: admin, Waktu :14-04-17 20:00:59
+Tambah data guru, ID:5, User: admin, Waktu :14-04-17 20:00:59
+Tambah data guru, ID:6, User: admin, Waktu :14-04-17 20:00:59
+Tambah data guru, ID:7, User: admin, Waktu :14-04-17 20:00:59
+Tambah data guru, ID:8, User: admin, Waktu :14-04-17 20:01:00
+Tambah data guru, ID:9, User: admin, Waktu :14-04-17 20:01:00
+Tambah data guru, ID:10, User: admin, Waktu :14-04-17 20:01:00
+Tambah data guru, ID:11, User: admin, Waktu :14-04-17 20:01:00
+Tambah data guru, ID:12, User: admin, Waktu :14-04-17 20:01:00
+Tambah data guru, ID:13, User: admin, Waktu :14-04-17 20:01:00
+Tambah data guru, ID:14, User: admin, Waktu :14-04-17 20:01:01
+Tambah data guru, ID:15, User: admin, Waktu :14-04-17 20:01:01
+Tambah data guru, ID:16, User: admin, Waktu :14-04-17 20:01:01
+Tambah data guru, ID:17, User: admin, Waktu :14-04-17 20:01:01
+Tambah data guru, ID:18, User: admin, Waktu :14-04-17 20:01:01
+Tambah data guru, ID:19, User: admin, Waktu :14-04-17 20:01:02
+Tambah data guru, ID:20, User: admin, Waktu :14-04-17 20:01:02
+Tambah data guru, ID:21, User: admin, Waktu :14-04-17 20:01:02
+Tambah data guru, ID:22, User: admin, Waktu :14-04-17 20:01:02
+Tambah data guru, ID:23, User: admin, Waktu :14-04-17 20:01:03
+Tambah data guru, ID:24, User: admin, Waktu :14-04-17 20:01:03
+Tambah data guru, ID:25, User: admin, Waktu :14-04-17 20:01:03
+Tambah data guru, ID:26, User: admin, Waktu :14-04-17 20:01:03
+Tambah data guru, ID:27, User: admin, Waktu :14-04-17 20:01:03
+Tambah data guru, ID:28, User: admin, Waktu :14-04-17 20:01:04
+Tambah data guru, ID:29, User: admin, Waktu :14-04-17 20:01:04
+Tambah data guru, ID:30, User: admin, Waktu :14-04-17 20:01:04
+Tambah data guru, ID:31, User: admin, Waktu :14-04-17 20:01:04
+Tambah data guru, ID:32, User: admin, Waktu :14-04-17 20:01:04
+Tambah data guru, ID:33, User: admin, Waktu :14-04-17 20:01:05
+Tambah data guru, ID:34, User: admin, Waktu :14-04-17 20:01:05
+Tambah data guru, ID:35, User: admin, Waktu :14-04-17 20:01:05
+Tambah data guru, ID:36, User: admin, Waktu :14-04-17 20:01:05
+Tambah data guru, ID:37, User: admin, Waktu :14-04-17 20:01:05
+Tambah data guru, ID:38, User: admin, Waktu :14-04-17 20:01:06
+Tambah data guru, ID:39, User: admin, Waktu :14-04-17 20:01:06
+Tambah data guru, ID:40, User: admin, Waktu :14-04-17 20:01:06
+Tambah data guru, ID:41, User: admin, Waktu :14-04-17 20:01:06
+Tambah data guru, ID:42, User: admin, Waktu :14-04-17 20:01:06
+Tambah data guru, ID:43, User: admin, Waktu :14-04-17 20:01:06
+Tambah data guru, ID:44, User: admin, Waktu :14-04-17 20:01:07
+Tambah data guru, ID:45, User: admin, Waktu :14-04-17 20:01:07
+Tambah data guru, ID:46, User: admin, Waktu :14-04-17 20:01:07
+Tambah data guru, ID:47, User: admin, Waktu :14-04-17 20:01:07
+Tambah data guru, ID:48, User: admin, Waktu :14-04-17 20:01:07
+Tambah data guru, ID:49, User: admin, Waktu :14-04-17 20:01:08
+Tambah data guru, ID:50, User: admin, Waktu :14-04-17 20:01:08
+Tambah data guru, ID:51, User: admin, Waktu :14-04-17 20:01:08
+Tambah data guru, ID:52, User: admin, Waktu :14-04-17 20:01:08
+Tambah data guru, ID:53, User: admin, Waktu :14-04-17 20:01:08
+Tambah data guru, ID:54, User: admin, Waktu :14-04-17 20:01:08
+Tambah data guru, ID:55, User: admin, Waktu :14-04-17 20:01:09
+Tambah data guru, ID:56, User: admin, Waktu :14-04-17 20:01:09
+Tambah data guru, ID:57, User: admin, Waktu :14-04-17 20:01:09
+Tambah data guru, ID:58, User: admin, Waktu :14-04-17 20:01:09
+Tambah data siswa, ID:1, User: admin, Waktu :14-04-17 22:43:48
+Tambah anggota rombongan belajar, ID:1, User: admin, Waktu :14-04-17 22:43:48
+Tambah data siswa, ID:2, User: admin, Waktu :14-04-17 22:43:49
+Tambah anggota rombongan belajar, ID:2, User: admin, Waktu :14-04-17 22:43:49
+Tambah data siswa, ID:3, User: admin, Waktu :14-04-17 22:43:49
+Tambah anggota rombongan belajar, ID:3, User: admin, Waktu :14-04-17 22:43:49
+Tambah data siswa, ID:4, User: admin, Waktu :14-04-17 22:43:49
+Tambah anggota rombongan belajar, ID:4, User: admin, Waktu :14-04-17 22:43:50
+Tambah data siswa, ID:5, User: admin, Waktu :14-04-17 22:43:50
+Tambah anggota rombongan belajar, ID:5, User: admin, Waktu :14-04-17 22:43:50
+Tambah data siswa, ID:6, User: admin, Waktu :14-04-17 22:43:50
+Tambah anggota rombongan belajar, ID:6, User: admin, Waktu :14-04-17 22:43:51
+Tambah data siswa, ID:7, User: admin, Waktu :14-04-17 22:43:51
+Tambah anggota rombongan belajar, ID:7, User: admin, Waktu :14-04-17 22:43:51
+Tambah data siswa, ID:8, User: admin, Waktu :14-04-17 22:43:51
+Tambah anggota rombongan belajar, ID:8, User: admin, Waktu :14-04-17 22:43:51
+Tambah data siswa, ID:9, User: admin, Waktu :14-04-17 22:43:52
+Tambah anggota rombongan belajar, ID:9, User: admin, Waktu :14-04-17 22:43:52
+Tambah data siswa, ID:10, User: admin, Waktu :14-04-17 22:43:52
+Tambah anggota rombongan belajar, ID:10, User: admin, Waktu :14-04-17 22:43:52
+Tambah data siswa, ID:11, User: admin, Waktu :14-04-17 22:43:52
+Tambah anggota rombongan belajar, ID:11, User: admin, Waktu :14-04-17 22:43:52
+Tambah data siswa, ID:12, User: admin, Waktu :14-04-17 22:43:53
+Tambah anggota rombongan belajar, ID:12, User: admin, Waktu :14-04-17 22:43:53
+Tambah data siswa, ID:13, User: admin, Waktu :14-04-17 22:43:53
+Tambah anggota rombongan belajar, ID:13, User: admin, Waktu :14-04-17 22:43:53
+Tambah data siswa, ID:14, User: admin, Waktu :14-04-17 22:43:53
+Tambah anggota rombongan belajar, ID:14, User: admin, Waktu :14-04-17 22:43:54
+Tambah data siswa, ID:15, User: admin, Waktu :14-04-17 22:43:54
+Tambah anggota rombongan belajar, ID:15, User: admin, Waktu :14-04-17 22:43:54
+Tambah data siswa, ID:16, User: admin, Waktu :14-04-17 22:43:54
+Tambah anggota rombongan belajar, ID:16, User: admin, Waktu :14-04-17 22:43:54
+Tambah data siswa, ID:17, User: admin, Waktu :14-04-17 22:43:55
+Tambah anggota rombongan belajar, ID:17, User: admin, Waktu :14-04-17 22:43:55
+Tambah data siswa, ID:18, User: admin, Waktu :14-04-17 22:43:55
+Tambah anggota rombongan belajar, ID:18, User: admin, Waktu :14-04-17 22:43:55
+Tambah data siswa, ID:19, User: admin, Waktu :14-04-17 22:43:55
+Tambah anggota rombongan belajar, ID:19, User: admin, Waktu :14-04-17 22:43:56
+Tambah data siswa, ID:20, User: admin, Waktu :14-04-17 22:43:56
+Tambah anggota rombongan belajar, ID:20, User: admin, Waktu :14-04-17 22:43:56
+Tambah data siswa, ID:21, User: admin, Waktu :14-04-17 22:43:56
+Tambah anggota rombongan belajar, ID:21, User: admin, Waktu :14-04-17 22:43:56
+Tambah data siswa, ID:22, User: admin, Waktu :14-04-17 22:43:56
+Tambah anggota rombongan belajar, ID:22, User: admin, Waktu :14-04-17 22:43:57
+Tambah data siswa, ID:23, User: admin, Waktu :14-04-17 22:43:57
+Tambah anggota rombongan belajar, ID:23, User: admin, Waktu :14-04-17 22:43:57
+Tambah data siswa, ID:24, User: admin, Waktu :14-04-17 22:43:57
+Tambah anggota rombongan belajar, ID:24, User: admin, Waktu :14-04-17 22:43:57
+Tambah data siswa, ID:25, User: admin, Waktu :14-04-17 22:43:58
+Tambah anggota rombongan belajar, ID:25, User: admin, Waktu :14-04-17 22:43:58
+Tambah data siswa, ID:26, User: admin, Waktu :14-04-17 22:43:58
+Tambah anggota rombongan belajar, ID:26, User: admin, Waktu :14-04-17 22:43:58
+Tambah data siswa, ID:27, User: admin, Waktu :14-04-17 22:43:59
+Tambah anggota rombongan belajar, ID:27, User: admin, Waktu :14-04-17 22:43:59
+Tambah data siswa, ID:28, User: admin, Waktu :14-04-17 22:43:59
+Tambah anggota rombongan belajar, ID:28, User: admin, Waktu :14-04-17 22:43:59
+Tambah data siswa, ID:29, User: admin, Waktu :14-04-17 22:43:59
+Tambah anggota rombongan belajar, ID:29, User: admin, Waktu :14-04-17 22:43:59
+Tambah data siswa, ID:30, User: admin, Waktu :14-04-17 22:44:00
+Tambah anggota rombongan belajar, ID:30, User: admin, Waktu :14-04-17 22:44:00
+Tambah data siswa, ID:31, User: admin, Waktu :14-04-17 22:44:00
+Tambah anggota rombongan belajar, ID:31, User: admin, Waktu :14-04-17 22:44:00
+Tambah data siswa, ID:32, User: admin, Waktu :14-04-17 22:44:00
+Tambah anggota rombongan belajar, ID:32, User: admin, Waktu :14-04-17 22:44:00
+Tambah data siswa, ID:33, User: admin, Waktu :14-04-17 22:44:01
+Tambah anggota rombongan belajar, ID:33, User: admin, Waktu :14-04-17 22:44:01
+Tambah data siswa, ID:34, User: admin, Waktu :14-04-17 22:44:01
+Tambah anggota rombongan belajar, ID:34, User: admin, Waktu :14-04-17 22:44:01
+Tambah data siswa, ID:35, User: admin, Waktu :14-04-17 22:44:01
+Tambah anggota rombongan belajar, ID:35, User: admin, Waktu :14-04-17 22:44:01
+Tambah data siswa, ID:36, User: admin, Waktu :14-04-17 22:44:02
+Tambah anggota rombongan belajar, ID:36, User: admin, Waktu :14-04-17 22:44:02
+Tambah data siswa, ID:37, User: admin, Waktu :14-04-17 22:44:02
+Tambah anggota rombongan belajar, ID:37, User: admin, Waktu :14-04-17 22:44:02
+Tambah data siswa, ID:38, User: admin, Waktu :14-04-17 22:44:02
+Tambah anggota rombongan belajar, ID:38, User: admin, Waktu :14-04-17 22:44:03
+Tambah data siswa, ID:39, User: admin, Waktu :14-04-17 22:44:03
+Tambah anggota rombongan belajar, ID:39, User: admin, Waktu :14-04-17 22:44:03
+Tambah data siswa, ID:40, User: admin, Waktu :14-04-17 22:44:03
+Tambah anggota rombongan belajar, ID:40, User: admin, Waktu :14-04-17 22:44:04
+Tambah data siswa, ID:41, User: admin, Waktu :14-04-17 22:44:04
+Tambah anggota rombongan belajar, ID:41, User: admin, Waktu :14-04-17 22:44:04
+Tambah data siswa, ID:42, User: admin, Waktu :14-04-17 22:44:04
+Tambah anggota rombongan belajar, ID:42, User: admin, Waktu :14-04-17 22:44:04
+Tambah data siswa, ID:43, User: admin, Waktu :14-04-17 22:44:04
+Tambah anggota rombongan belajar, ID:43, User: admin, Waktu :14-04-17 22:44:05
+Tambah data siswa, ID:44, User: admin, Waktu :14-04-17 22:44:05
+Tambah anggota rombongan belajar, ID:44, User: admin, Waktu :14-04-17 22:44:05
+Tambah data siswa, ID:45, User: admin, Waktu :14-04-17 22:44:05
+Tambah anggota rombongan belajar, ID:45, User: admin, Waktu :14-04-17 22:44:05
+Tambah data siswa, ID:46, User: admin, Waktu :14-04-17 22:44:06
+Tambah anggota rombongan belajar, ID:46, User: admin, Waktu :14-04-17 22:44:06
+Tambah data siswa, ID:47, User: admin, Waktu :14-04-17 22:44:06
+Tambah anggota rombongan belajar, ID:47, User: admin, Waktu :14-04-17 22:44:06
+Tambah data siswa, ID:48, User: admin, Waktu :14-04-17 22:44:06
+Tambah anggota rombongan belajar, ID:48, User: admin, Waktu :14-04-17 22:44:07
+Tambah data siswa, ID:49, User: admin, Waktu :14-04-17 22:44:07
+Tambah anggota rombongan belajar, ID:49, User: admin, Waktu :14-04-17 22:44:07
+Tambah data siswa, ID:50, User: admin, Waktu :14-04-17 22:44:08
+Tambah anggota rombongan belajar, ID:50, User: admin, Waktu :14-04-17 22:44:08
+Tambah data siswa, ID:51, User: admin, Waktu :14-04-17 22:44:08
+Tambah anggota rombongan belajar, ID:51, User: admin, Waktu :14-04-17 22:44:08
+Tambah data siswa, ID:52, User: admin, Waktu :14-04-17 22:44:09
+Tambah anggota rombongan belajar, ID:52, User: admin, Waktu :14-04-17 22:44:09
+Tambah data siswa, ID:53, User: admin, Waktu :14-04-17 22:44:09
+Tambah anggota rombongan belajar, ID:53, User: admin, Waktu :14-04-17 22:44:09
+Tambah data siswa, ID:54, User: admin, Waktu :14-04-17 22:44:09
+Tambah anggota rombongan belajar, ID:54, User: admin, Waktu :14-04-17 22:44:10
+Tambah data siswa, ID:55, User: admin, Waktu :14-04-17 22:44:10
+Tambah anggota rombongan belajar, ID:55, User: admin, Waktu :14-04-17 22:44:10
+Tambah data siswa, ID:56, User: admin, Waktu :14-04-17 22:44:10
+Tambah anggota rombongan belajar, ID:56, User: admin, Waktu :14-04-17 22:44:10
+Tambah data siswa, ID:57, User: admin, Waktu :14-04-17 22:44:11
+Tambah anggota rombongan belajar, ID:57, User: admin, Waktu :14-04-17 22:44:11
+Tambah data siswa, ID:58, User: admin, Waktu :14-04-17 22:44:11
+Tambah anggota rombongan belajar, ID:58, User: admin, Waktu :14-04-17 22:44:11
+Tambah data siswa, ID:59, User: admin, Waktu :14-04-17 22:44:12
+Tambah anggota rombongan belajar, ID:59, User: admin, Waktu :14-04-17 22:44:12
+Tambah data siswa, ID:60, User: admin, Waktu :14-04-17 22:44:12
+Tambah anggota rombongan belajar, ID:60, User: admin, Waktu :14-04-17 22:44:12
+Tambah data siswa, ID:61, User: admin, Waktu :14-04-17 22:44:12
+Tambah anggota rombongan belajar, ID:61, User: admin, Waktu :14-04-17 22:44:13
+Tambah data siswa, ID:62, User: admin, Waktu :14-04-17 22:44:13
+Tambah anggota rombongan belajar, ID:62, User: admin, Waktu :14-04-17 22:44:13
+Tambah data siswa, ID:63, User: admin, Waktu :14-04-17 22:44:13
+Tambah anggota rombongan belajar, ID:63, User: admin, Waktu :14-04-17 22:44:13
+Tambah data siswa, ID:64, User: admin, Waktu :14-04-17 22:44:13
+Tambah anggota rombongan belajar, ID:64, User: admin, Waktu :14-04-17 22:44:14
+Tambah data siswa, ID:65, User: admin, Waktu :14-04-17 22:44:14
+Tambah anggota rombongan belajar, ID:65, User: admin, Waktu :14-04-17 22:44:14
+Tambah data siswa, ID:66, User: admin, Waktu :14-04-17 22:44:14
+Tambah anggota rombongan belajar, ID:66, User: admin, Waktu :14-04-17 22:44:15
+Tambah data siswa, ID:67, User: admin, Waktu :14-04-17 22:44:15
+Tambah anggota rombongan belajar, ID:67, User: admin, Waktu :14-04-17 22:44:15
+Tambah data siswa, ID:68, User: admin, Waktu :14-04-17 22:44:16
+Tambah anggota rombongan belajar, ID:68, User: admin, Waktu :14-04-17 22:44:16
+Tambah data siswa, ID:69, User: admin, Waktu :14-04-17 22:44:16
+Tambah anggota rombongan belajar, ID:69, User: admin, Waktu :14-04-17 22:44:16
+Tambah data siswa, ID:70, User: admin, Waktu :14-04-17 22:44:16
+Tambah anggota rombongan belajar, ID:70, User: admin, Waktu :14-04-17 22:44:16
+Tambah data siswa, ID:71, User: admin, Waktu :14-04-17 22:44:17
+Tambah anggota rombongan belajar, ID:71, User: admin, Waktu :14-04-17 22:44:17
+Tambah data siswa, ID:72, User: admin, Waktu :14-04-17 22:44:17
+Tambah anggota rombongan belajar, ID:72, User: admin, Waktu :14-04-17 22:44:17
+Tambah data siswa, ID:73, User: admin, Waktu :14-04-17 22:44:17
+Tambah anggota rombongan belajar, ID:73, User: admin, Waktu :14-04-17 22:44:17
+Tambah data siswa, ID:74, User: admin, Waktu :14-04-17 22:44:18
+Tambah anggota rombongan belajar, ID:74, User: admin, Waktu :14-04-17 22:44:18
+Tambah data siswa, ID:75, User: admin, Waktu :14-04-17 22:44:18
+Tambah anggota rombongan belajar, ID:75, User: admin, Waktu :14-04-17 22:44:18
+Tambah data siswa, ID:76, User: admin, Waktu :14-04-17 22:44:18
+Tambah anggota rombongan belajar, ID:76, User: admin, Waktu :14-04-17 22:44:19
+Tambah data siswa, ID:77, User: admin, Waktu :14-04-17 22:44:19
+Tambah anggota rombongan belajar, ID:77, User: admin, Waktu :14-04-17 22:44:19
+Tambah data siswa, ID:78, User: admin, Waktu :14-04-17 22:44:19
+Tambah anggota rombongan belajar, ID:78, User: admin, Waktu :14-04-17 22:44:19
+Tambah data siswa, ID:79, User: admin, Waktu :14-04-17 22:44:20
+Tambah anggota rombongan belajar, ID:79, User: admin, Waktu :14-04-17 22:44:20
+Tambah data siswa, ID:80, User: admin, Waktu :14-04-17 22:44:20
+Tambah anggota rombongan belajar, ID:80, User: admin, Waktu :14-04-17 22:44:20
+Tambah data siswa, ID:81, User: admin, Waktu :14-04-17 22:44:21
+Tambah anggota rombongan belajar, ID:81, User: admin, Waktu :14-04-17 22:44:21
+Tambah data siswa, ID:82, User: admin, Waktu :14-04-17 22:44:21
+Tambah anggota rombongan belajar, ID:82, User: admin, Waktu :14-04-17 22:44:22
+Tambah data siswa, ID:83, User: admin, Waktu :14-04-17 22:44:22
+Tambah anggota rombongan belajar, ID:83, User: admin, Waktu :14-04-17 22:44:22
+Tambah data siswa, ID:84, User: admin, Waktu :14-04-17 22:44:23
+Tambah anggota rombongan belajar, ID:84, User: admin, Waktu :14-04-17 22:44:23
+Tambah data siswa, ID:85, User: admin, Waktu :14-04-17 22:44:24
+Tambah anggota rombongan belajar, ID:85, User: admin, Waktu :14-04-17 22:44:24
+Tambah data siswa, ID:86, User: admin, Waktu :14-04-17 22:44:25
+Tambah anggota rombongan belajar, ID:86, User: admin, Waktu :14-04-17 22:44:25
+Tambah data siswa, ID:87, User: admin, Waktu :14-04-17 22:44:26
+Tambah anggota rombongan belajar, ID:87, User: admin, Waktu :14-04-17 22:44:26
+Tambah data siswa, ID:88, User: admin, Waktu :14-04-17 22:44:26
+Tambah anggota rombongan belajar, ID:88, User: admin, Waktu :14-04-17 22:44:26
+Tambah data siswa, ID:89, User: admin, Waktu :14-04-17 22:44:26
+Tambah anggota rombongan belajar, ID:89, User: admin, Waktu :14-04-17 22:44:27
+Tambah data siswa, ID:90, User: admin, Waktu :14-04-17 22:44:27
+Tambah anggota rombongan belajar, ID:90, User: admin, Waktu :14-04-17 22:44:27
+Tambah data siswa, ID:91, User: admin, Waktu :14-04-17 22:44:27
+Tambah anggota rombongan belajar, ID:91, User: admin, Waktu :14-04-17 22:44:28
+Tambah data siswa, ID:92, User: admin, Waktu :14-04-17 22:44:28
+Tambah anggota rombongan belajar, ID:92, User: admin, Waktu :14-04-17 22:44:28
+Tambah data siswa, ID:93, User: admin, Waktu :14-04-17 22:44:29
+Tambah anggota rombongan belajar, ID:93, User: admin, Waktu :14-04-17 22:44:29
+Tambah data siswa, ID:94, User: admin, Waktu :14-04-17 22:44:29
+Tambah anggota rombongan belajar, ID:94, User: admin, Waktu :14-04-17 22:44:29
+Tambah data siswa, ID:95, User: admin, Waktu :14-04-17 22:44:30
+Tambah anggota rombongan belajar, ID:95, User: admin, Waktu :14-04-17 22:44:30
+Tambah data siswa, ID:96, User: admin, Waktu :14-04-17 22:44:30
+Tambah anggota rombongan belajar, ID:96, User: admin, Waktu :14-04-17 22:44:31
+Tambah data siswa, ID:97, User: admin, Waktu :14-04-17 22:44:31
+Tambah anggota rombongan belajar, ID:97, User: admin, Waktu :14-04-17 22:44:31
+Tambah data siswa, ID:98, User: admin, Waktu :14-04-17 22:44:32
+Tambah anggota rombongan belajar, ID:98, User: admin, Waktu :14-04-17 22:44:32
+Tambah data siswa, ID:99, User: admin, Waktu :14-04-17 22:44:32
+Tambah anggota rombongan belajar, ID:99, User: admin, Waktu :14-04-17 22:44:32
+Tambah data siswa, ID:100, User: admin, Waktu :14-04-17 22:44:33
+Tambah anggota rombongan belajar, ID:100, User: admin, Waktu :14-04-17 22:44:33
+Tambah data siswa, ID:101, User: admin, Waktu :14-04-17 22:44:34
+Tambah anggota rombongan belajar, ID:101, User: admin, Waktu :14-04-17 22:44:34
+Tambah data siswa, ID:102, User: admin, Waktu :14-04-17 22:44:35
+Tambah anggota rombongan belajar, ID:102, User: admin, Waktu :14-04-17 22:44:36
+Tambah data siswa, ID:103, User: admin, Waktu :14-04-17 22:44:36
+Tambah anggota rombongan belajar, ID:103, User: admin, Waktu :14-04-17 22:44:37
+Tambah data siswa, ID:104, User: admin, Waktu :14-04-17 22:44:37
+Tambah anggota rombongan belajar, ID:104, User: admin, Waktu :14-04-17 22:44:37
+Tambah data siswa, ID:105, User: admin, Waktu :14-04-17 22:44:38
+Tambah anggota rombongan belajar, ID:105, User: admin, Waktu :14-04-17 22:44:38
+Tambah data siswa, ID:106, User: admin, Waktu :14-04-17 22:44:38
+Tambah anggota rombongan belajar, ID:106, User: admin, Waktu :14-04-17 22:44:39
+Tambah data siswa, ID:107, User: admin, Waktu :14-04-17 22:44:39
+Tambah anggota rombongan belajar, ID:107, User: admin, Waktu :14-04-17 22:44:40
+Tambah data siswa, ID:108, User: admin, Waktu :14-04-17 22:44:40
+Tambah anggota rombongan belajar, ID:108, User: admin, Waktu :14-04-17 22:44:40
+Tambah data siswa, ID:109, User: admin, Waktu :14-04-17 22:44:43
+Tambah anggota rombongan belajar, ID:109, User: admin, Waktu :14-04-17 22:44:44
+Tambah data siswa, ID:110, User: admin, Waktu :14-04-17 22:44:44
+Tambah anggota rombongan belajar, ID:110, User: admin, Waktu :14-04-17 22:44:45
+Tambah data siswa, ID:111, User: admin, Waktu :14-04-17 22:44:45
+Tambah anggota rombongan belajar, ID:111, User: admin, Waktu :14-04-17 22:44:45
+Tambah data siswa, ID:112, User: admin, Waktu :14-04-17 22:44:45
+Tambah anggota rombongan belajar, ID:112, User: admin, Waktu :14-04-17 22:44:46
+Tambah data siswa, ID:113, User: admin, Waktu :14-04-17 22:44:46
+Tambah anggota rombongan belajar, ID:113, User: admin, Waktu :14-04-17 22:44:46
+Tambah data siswa, ID:114, User: admin, Waktu :14-04-17 22:44:46
+Tambah anggota rombongan belajar, ID:114, User: admin, Waktu :14-04-17 22:44:47
+Tambah data siswa, ID:115, User: admin, Waktu :14-04-17 22:44:47
+Tambah anggota rombongan belajar, ID:115, User: admin, Waktu :14-04-17 22:44:47
+Tambah data siswa, ID:116, User: admin, Waktu :14-04-17 22:44:47
+Tambah anggota rombongan belajar, ID:116, User: admin, Waktu :14-04-17 22:44:48
+Tambah data siswa, ID:117, User: admin, Waktu :14-04-17 22:44:48
+Tambah anggota rombongan belajar, ID:117, User: admin, Waktu :14-04-17 22:44:48
+Tambah data siswa, ID:118, User: admin, Waktu :14-04-17 22:44:49
+Tambah anggota rombongan belajar, ID:118, User: admin, Waktu :14-04-17 22:44:49
+Tambah data siswa, ID:119, User: admin, Waktu :14-04-17 22:44:50
+Tambah anggota rombongan belajar, ID:119, User: admin, Waktu :14-04-17 22:44:51
+Tambah data siswa, ID:120, User: admin, Waktu :14-04-17 22:44:52
+Tambah anggota rombongan belajar, ID:120, User: admin, Waktu :14-04-17 22:44:52
+Tambah data siswa, ID:121, User: admin, Waktu :14-04-17 22:44:52
+Tambah anggota rombongan belajar, ID:121, User: admin, Waktu :14-04-17 22:44:53
+Tambah data siswa, ID:122, User: admin, Waktu :14-04-17 22:44:53
+Tambah anggota rombongan belajar, ID:122, User: admin, Waktu :14-04-17 22:44:53
+Tambah data siswa, ID:123, User: admin, Waktu :14-04-17 22:44:54
+Tambah anggota rombongan belajar, ID:123, User: admin, Waktu :14-04-17 22:44:54
+Tambah data siswa, ID:124, User: admin, Waktu :14-04-17 22:44:54
+Tambah anggota rombongan belajar, ID:124, User: admin, Waktu :14-04-17 22:44:54
+Tambah data siswa, ID:125, User: admin, Waktu :14-04-17 22:44:55
+Tambah anggota rombongan belajar, ID:125, User: admin, Waktu :14-04-17 22:44:55
+Tambah data siswa, ID:126, User: admin, Waktu :14-04-17 22:44:55
+Tambah anggota rombongan belajar, ID:126, User: admin, Waktu :14-04-17 22:44:55
+Tambah data siswa, ID:127, User: admin, Waktu :14-04-17 22:44:56
+Tambah anggota rombongan belajar, ID:127, User: admin, Waktu :14-04-17 22:44:56
+Tambah data siswa, ID:128, User: admin, Waktu :14-04-17 22:44:56
+Tambah anggota rombongan belajar, ID:128, User: admin, Waktu :14-04-17 22:44:56
+Tambah data siswa, ID:129, User: admin, Waktu :14-04-17 22:44:57
+Tambah anggota rombongan belajar, ID:129, User: admin, Waktu :14-04-17 22:44:57
+Tambah data siswa, ID:130, User: admin, Waktu :14-04-17 22:44:57
+Tambah anggota rombongan belajar, ID:130, User: admin, Waktu :14-04-17 22:44:57
+Tambah data siswa, ID:131, User: admin, Waktu :14-04-17 22:44:57
+Tambah anggota rombongan belajar, ID:131, User: admin, Waktu :14-04-17 22:44:58
+Tambah data siswa, ID:132, User: admin, Waktu :14-04-17 22:44:58
+Tambah anggota rombongan belajar, ID:132, User: admin, Waktu :14-04-17 22:44:58
+Tambah data siswa, ID:133, User: admin, Waktu :14-04-17 22:44:58
+Tambah anggota rombongan belajar, ID:133, User: admin, Waktu :14-04-17 22:44:58
+Tambah data siswa, ID:134, User: admin, Waktu :14-04-17 22:44:59
+Tambah anggota rombongan belajar, ID:134, User: admin, Waktu :14-04-17 22:44:59
+Tambah data siswa, ID:135, User: admin, Waktu :14-04-17 22:44:59
+Tambah anggota rombongan belajar, ID:135, User: admin, Waktu :14-04-17 22:44:59
+Tambah data siswa, ID:136, User: admin, Waktu :14-04-17 22:44:59
+Tambah anggota rombongan belajar, ID:136, User: admin, Waktu :14-04-17 22:44:59
+Tambah data siswa, ID:137, User: admin, Waktu :14-04-17 22:45:00
+Tambah anggota rombongan belajar, ID:137, User: admin, Waktu :14-04-17 22:45:00
+Tambah data siswa, ID:138, User: admin, Waktu :14-04-17 22:45:00
+Tambah anggota rombongan belajar, ID:138, User: admin, Waktu :14-04-17 22:45:01
+Tambah data siswa, ID:139, User: admin, Waktu :14-04-17 22:45:01
+Tambah anggota rombongan belajar, ID:139, User: admin, Waktu :14-04-17 22:45:01
+Tambah data siswa, ID:140, User: admin, Waktu :14-04-17 22:45:02
+Tambah anggota rombongan belajar, ID:140, User: admin, Waktu :14-04-17 22:45:02
+Tambah data siswa, ID:141, User: admin, Waktu :14-04-17 22:45:02
+Tambah anggota rombongan belajar, ID:141, User: admin, Waktu :14-04-17 22:45:02
+Tambah data siswa, ID:142, User: admin, Waktu :14-04-17 22:45:03
+Tambah anggota rombongan belajar, ID:142, User: admin, Waktu :14-04-17 22:45:03
+Tambah data siswa, ID:143, User: admin, Waktu :14-04-17 22:45:05
+Tambah anggota rombongan belajar, ID:143, User: admin, Waktu :14-04-17 22:45:06
+Tambah data siswa, ID:144, User: admin, Waktu :14-04-17 22:45:06
+Tambah anggota rombongan belajar, ID:144, User: admin, Waktu :14-04-17 22:45:06
+Tambah data siswa, ID:145, User: admin, Waktu :14-04-17 22:45:06
+Tambah anggota rombongan belajar, ID:145, User: admin, Waktu :14-04-17 22:45:07
+Tambah data siswa, ID:146, User: admin, Waktu :14-04-17 22:45:07
+Tambah anggota rombongan belajar, ID:146, User: admin, Waktu :14-04-17 22:45:07
+Tambah data siswa, ID:147, User: admin, Waktu :14-04-17 22:45:07
+Tambah data rombongan belajar, ID:19, User: admin, Waktu :14-04-17 22:45:08
+Tambah anggota rombongan belajar, ID:147, User: admin, Waktu :14-04-17 22:45:08
+Tambah data siswa, ID:148, User: admin, Waktu :14-04-17 22:45:08
+Tambah anggota rombongan belajar, ID:148, User: admin, Waktu :14-04-17 22:45:08
+Tambah data siswa, ID:149, User: admin, Waktu :14-04-17 22:45:08
+Tambah anggota rombongan belajar, ID:149, User: admin, Waktu :14-04-17 22:45:09
+Tambah data siswa, ID:150, User: admin, Waktu :14-04-17 22:45:10
+Tambah anggota rombongan belajar, ID:150, User: admin, Waktu :14-04-17 22:45:10
+Tambah data siswa, ID:151, User: admin, Waktu :14-04-17 22:45:10
+Tambah anggota rombongan belajar, ID:151, User: admin, Waktu :14-04-17 22:45:10
+Tambah data siswa, ID:152, User: admin, Waktu :14-04-17 22:45:10
+Tambah anggota rombongan belajar, ID:152, User: admin, Waktu :14-04-17 22:45:11
+Tambah data siswa, ID:153, User: admin, Waktu :14-04-17 22:45:11
+Tambah anggota rombongan belajar, ID:153, User: admin, Waktu :14-04-17 22:45:11
+Tambah data siswa, ID:154, User: admin, Waktu :14-04-17 22:45:11
+Tambah anggota rombongan belajar, ID:154, User: admin, Waktu :14-04-17 22:45:11
+Tambah data siswa, ID:155, User: admin, Waktu :14-04-17 22:45:12
+Tambah anggota rombongan belajar, ID:155, User: admin, Waktu :14-04-17 22:45:12
+Tambah data siswa, ID:156, User: admin, Waktu :14-04-17 22:45:12
+Tambah anggota rombongan belajar, ID:156, User: admin, Waktu :14-04-17 22:45:12
+Tambah data siswa, ID:157, User: admin, Waktu :14-04-17 22:45:12
+Tambah anggota rombongan belajar, ID:157, User: admin, Waktu :14-04-17 22:45:13
+Tambah data siswa, ID:158, User: admin, Waktu :14-04-17 22:45:13
+Tambah anggota rombongan belajar, ID:158, User: admin, Waktu :14-04-17 22:45:13
+Tambah data siswa, ID:159, User: admin, Waktu :14-04-17 22:45:13
+Tambah anggota rombongan belajar, ID:159, User: admin, Waktu :14-04-17 22:45:13
+Tambah data siswa, ID:160, User: admin, Waktu :14-04-17 22:45:14
+Tambah anggota rombongan belajar, ID:160, User: admin, Waktu :14-04-17 22:45:14
+Tambah data siswa, ID:161, User: admin, Waktu :14-04-17 22:45:14
+Tambah anggota rombongan belajar, ID:161, User: admin, Waktu :14-04-17 22:45:14
+Tambah data siswa, ID:162, User: admin, Waktu :14-04-17 22:45:15
+Tambah anggota rombongan belajar, ID:162, User: admin, Waktu :14-04-17 22:45:15
+Tambah data siswa, ID:163, User: admin, Waktu :14-04-17 22:45:15
+Tambah anggota rombongan belajar, ID:163, User: admin, Waktu :14-04-17 22:45:16
+Tambah data siswa, ID:164, User: admin, Waktu :14-04-17 22:45:16
+Tambah anggota rombongan belajar, ID:164, User: admin, Waktu :14-04-17 22:45:16
+Tambah data siswa, ID:165, User: admin, Waktu :14-04-17 22:45:16
+Tambah anggota rombongan belajar, ID:165, User: admin, Waktu :14-04-17 22:45:16
+Tambah data siswa, ID:166, User: admin, Waktu :14-04-17 22:45:17
+Tambah anggota rombongan belajar, ID:166, User: admin, Waktu :14-04-17 22:45:17
+Tambah data siswa, ID:167, User: admin, Waktu :14-04-17 22:45:17
+Tambah anggota rombongan belajar, ID:167, User: admin, Waktu :14-04-17 22:45:17
+Tambah data siswa, ID:168, User: admin, Waktu :14-04-17 22:45:18
+Tambah anggota rombongan belajar, ID:168, User: admin, Waktu :14-04-17 22:45:18
+Tambah data siswa, ID:169, User: admin, Waktu :14-04-17 22:45:18
+Tambah anggota rombongan belajar, ID:169, User: admin, Waktu :14-04-17 22:45:18
+Tambah data siswa, ID:170, User: admin, Waktu :14-04-17 22:45:18
+Tambah anggota rombongan belajar, ID:170, User: admin, Waktu :14-04-17 22:45:19
+Tambah data siswa, ID:171, User: admin, Waktu :14-04-17 22:45:19
+Tambah anggota rombongan belajar, ID:171, User: admin, Waktu :14-04-17 22:45:19
+Tambah data siswa, ID:172, User: admin, Waktu :14-04-17 22:45:19
+Tambah anggota rombongan belajar, ID:172, User: admin, Waktu :14-04-17 22:45:19
+Tambah data siswa, ID:173, User: admin, Waktu :14-04-17 22:45:20
+Tambah anggota rombongan belajar, ID:173, User: admin, Waktu :14-04-17 22:45:20
+Tambah data siswa, ID:174, User: admin, Waktu :14-04-17 22:45:20
+Tambah anggota rombongan belajar, ID:174, User: admin, Waktu :14-04-17 22:45:20
+Tambah data siswa, ID:175, User: admin, Waktu :14-04-17 22:45:20
+Tambah anggota rombongan belajar, ID:175, User: admin, Waktu :14-04-17 22:45:20
+Tambah data siswa, ID:176, User: admin, Waktu :14-04-17 22:45:21
+Tambah anggota rombongan belajar, ID:176, User: admin, Waktu :14-04-17 22:45:21
+Tambah data siswa, ID:177, User: admin, Waktu :14-04-17 22:45:21
+Tambah anggota rombongan belajar, ID:177, User: admin, Waktu :14-04-17 22:45:21
+Tambah data siswa, ID:178, User: admin, Waktu :14-04-17 22:45:22
+Tambah anggota rombongan belajar, ID:178, User: admin, Waktu :14-04-17 22:45:22
+Update data siswa, ID:1, User: admin, Waktu :14-04-17 22:45:56
+Hapus anggota rombongan belajar, ID:1, User: admin, Waktu :14-04-17 22:45:56
+Update data siswa, ID:2, User: admin, Waktu :14-04-17 22:46:00
+Hapus anggota rombongan belajar, ID:2, User: admin, Waktu :14-04-17 22:46:00
+Update data siswa, ID:2, User: admin, Waktu :14-04-17 22:46:12
+Tambah anggota rombongan belajar, ID:179, User: admin, Waktu :14-04-17 22:46:12
+Update data siswa, ID:1, User: admin, Waktu :14-04-17 22:46:14
+Tambah anggota rombongan belajar, ID:180, User: admin, Waktu :14-04-17 22:46:14
+Tambah data pembelajaran, ID:1, User: admin, Waktu :14-04-17 22:47:33
+Tambah data pembelajaran, ID:2, User: admin, Waktu :14-04-17 22:47:33
+Tambah data pembelajaran, ID:3, User: admin, Waktu :14-04-17 22:47:33
+Tambah data pembelajaran, ID:4, User: admin, Waktu :14-04-17 22:47:33

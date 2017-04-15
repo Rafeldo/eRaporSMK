@@ -1,0 +1,152 @@
+#foo:checked,
+ input[type="radio"]:checked+label {
+ 	color: #17A4E5;
+ 	font-weight: bold;
+ 	font-size: 14px;
+ }
+ 
+ input[type="radio"]:not(checked)+label {
+ 	font-size: 14px;
+ }
+ 
+#answers {
+	margin-left: 1.0rem;
+}
+
+#exam-timer {
+	width: 45px;
+}
+.exam_left {
+	float: left !important;
+	width: 70%;
+}
+
+.exam_content_area {
+	margin-left: 30px;
+}
+#exam-time-left{
+	font-size: 30px;
+	font-weight: bold; 
+	padding:5px; 
+	width: 135px;
+	color:#469408; 
+	background-color: #f2f8fb; 
+	border: 0px;
+}
+
+/* fix the display issue in IE7, IE8 and Firefox 3.6 */
+.question_choice {
+	display: inline;
+	margin-left: 7px;
+	vertical-align: middle;
+}
+
+th.admin_feedback {
+	width: 15%;
+}
+
+.star-rating {
+	margin-top: 1px;
+}
+.right {
+float: right!important;
+}
+
+
+/* overriding bootstrapp default pagination style */
+.pagination {
+	height: 34px;
+	margin: 0px;
+}
+
+.question_unanswered {
+	color: #6D6D6D;
+}
+
+.question_answered_question { 
+	font-weight: bold;
+	color: #fff;
+	background: #469408;
+	
+}
+
+.pagination a hover {
+	border-color: #17A4E5;
+}
+
+.pagination .active_question {
+	z-index: 2;
+color: #fff;
+cursor: default;
+background-color: #428bca;
+border-color: #428bca;
+}
+
+.pagination {
+    height: 36px;
+    margin: 18px 0;
+}
+.pagination ul {
+   /*border-radius: 3px 3px 3px 3px;display: inline-block;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);*/
+    margin-bottom: 0;
+    margin-left: -40px;
+    /*margin-left: 0;*/
+}
+.pagination li {
+    display: inline; margin-right:3px; float:left; list-style-type:none;
+}
+.pagination a {
+    border-color: #DDDDDD;
+    border-style: solid;
+    border-width: 1px 1px 1px 0;
+    float: left;
+    line-height: 34px;
+    /*padding: 0 14px;*/
+	 width:40px;
+    text-decoration: none;
+}
+.pagination a:hover, .pagination .active a {
+    background-color: #F5F5F5;
+}
+.pagination .active a {
+    color: #999999;
+    cursor: default;
+}
+.pagination .disabled span, .pagination .disabled a, .pagination .disabled a:hover {
+    background-color: transparent;
+    color: #999999;
+    cursor: default;
+}
+.pagination li:first-child a {
+    border-left-width: 1px;
+    border-radius: 3px 3px 3px 3px;
+}
+.pagination li:last-child a {
+    border-radius: 3px 3px 3px 3px;
+}
+.pagination-centered {
+    text-align: center;
+}
+.pagination-right {
+    text-align: right;
+}
+ul.unstyled, ol.unstyled {
+	list-style: none outside none;
+	margin-left: 0;
+}
+.question_choice {
+	display: inline;
+	margin-left: 7px;
+	vertical-align: middle;
+}
+label, input, button, select, textarea {
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 18px;
+}
+
+
+
+
+

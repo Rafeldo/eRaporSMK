@@ -1,0 +1,9 @@
+FAQ:
+Q. XAMPP versi berapa yang direkomendasikan?
+A. https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.24/xampp-win32-5.6.24-1-VC11-installer.exe/download
+Q. Proses install selesai sampai proses rename/delete folder install tapi database masih kosong?
+A. - Edit file php.ini, tingkatkan angka max_execution_time=30 menjadi max_execution_time=3000
+   - Edit file my.ini, tingkatkan angka max_allowed_packet = 1M menjadi max_allowed_packet = 100M
+Q. Waktu instal error php.index not found 404!
+A. Pastikan folder root 777 untuk membuat file .htaccess secara otomatis. Atau download file .htaccess dibawah ini:
+   [link_htaccess]

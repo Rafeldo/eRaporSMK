@@ -1,0 +1,15 @@
+<?php
+$license = "FTqWoAUOnV1";
+$server = $_SERVER["SERVER_NAME"];
+$c = curl_init();
+curl_setopt($c, CURLOPT_URL, "http://localhost/key/license/verifyLicense.php");
+curl_setopt($c, CURLOPT_TIMEOUT, 30);
+curl_setopt($c, CURLOPT_POST, 1);
+curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
+$postfields = 'svr='.$server.'&lic='.$license;
+curl_setopt($c, CURLOPT_POSTFIELDS, $postfields);
+$result = curl_exec($c);
+if ($result=="fail"){
+die('Kode Lisensi Tidak Valid <a href="">Kembali</a>');
+}
+?>
