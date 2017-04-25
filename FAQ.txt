@@ -7,3 +7,5 @@ A. - Edit file php.ini, tingkatkan angka max_execution_time=30 menjadi max_execu
 Q. Waktu instal error php.index not found 404!
 A. Pastikan folder root 777 untuk membuat file .htaccess secara otomatis. Atau download file .htaccess dibawah ini:
    [link_htaccess]
+
+  tambahan
