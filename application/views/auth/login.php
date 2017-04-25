@@ -1,9 +1,10 @@
 <div class="login-logo">
 	<img src="<?php echo base_url(); ?>assets/img/logo.png" alt="logo" class="text-center" width="100" />
+	<H3 class="text-center" ><b>SMK NEGERI 4 BONDOWOSO</b><h3>
 	<!--a href="<?php echo site_url(); ?>"><b>e-Rapor SMK</b></a-->
 </div>
 <div class="login-box-body">
-	<p class="login-box-msg"><a href="<?php echo site_url(); ?>"><b>e-Rapor SMK</b></a></p>
+	<p class="login-box-msg"><a href="<?php echo site_url(); ?>"><b>Sistem Informasi Sekolah</b></a></p>
     <?php echo ($this->session->flashdata('error')) ? error_msg($this->session->flashdata('error')) : ''; ?>
     <?php echo ($error) ? error_msg($error) : ''; ?>
     <?php echo ($this->session->flashdata('success')) ? success_msg($this->session->flashdata('success')) : ''; ?>

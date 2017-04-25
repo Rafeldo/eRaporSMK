@@ -77,6 +77,36 @@ $user = $this->ion_auth->user()->row();
 					?>
 				</ul>
 			</li>
+			<li class="treeview <?php echo (isset($activemenu) && $activemenu == 'penerimaan') ?  'active' : ''; ?>">
+                <a href="#">
+                    <i class="fa fa-credit-card"></i> <span>Penerimaan Sekolah</span>
+                    <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+              </span>
+                </a>
+                 <ul class="treeview-menu">
+                 <li class="active">
+        		        <a href="<?php echo site_url('admin/penerimaan/bayarspp'); ?>">
+                	    <i class="fa fa-hand-o-right"></i> <span>Penerimaan SPP</span>
+		                </a>
+        		    </li>
+        		  <li class="active">
+        		        <a href="<?php echo site_url('admin/penerimaan'); ?>">
+                	    <i class="fa fa-hand-o-right"></i> <span>Penerimaan Lain-lain</span>
+		                </a>
+        		    </li>
+        		    <li class="active">
+        		        <a href="<?php echo site_url('admin/penerimaan'); ?>">
+                	    <i class="fa fa-hand-o-right"></i> <span>Laporan SPP Perbulan</span>
+		                </a>
+        		    </li>
+        		    <li class="active">
+        		        <a href="<?php echo site_url('admin/penerimaan'); ?>">
+                	    <i class="fa fa-hand-o-right"></i> <span>Laporan SPP Perkelas</span>
+		                </a>
+        		    </li>
+                 </ul>
+            </li>
 			<li class="treeview <?php echo (isset($activemenu) && $activemenu == 'referensi') ?  'active' : ''; ?>">
                 <a href="#">
                     <i class="fa fa-list"></i> <span>Referensi</span>
@@ -163,6 +193,18 @@ $user = $this->ion_auth->user()->row();
 					) ?  ' class="active"' : ''; ?>>
         		        <a href="<?php echo site_url('admin/referensi/sikap'); ?>">
                 	    <i class="fa fa-hand-o-right"></i> <span>Referensi Sikap</span>
+		                </a>
+        		    </li>
+
+        		    <li<?php echo (isset($activemenu) && $activemenu == 'referensi' && 
+					isset($uri[3]) && $uri[3] == 'dataspp' 
+					|| 
+					isset($uri[3]) && $uri[3] == 'add_dataspp' 
+					|| 
+					isset($uri[3]) && $uri[3] == 'edit_dataspp'
+					) ?  ' class="active"' : ''; ?>>
+        		        <a href="<?php echo site_url('admin/referensi/dataspp'); ?>">
+                	    <i class="fa fa-hand-o-right"></i> <span>Referensi Biaya SPP</span>
 		                </a>
         		    </li>
 				</ul>

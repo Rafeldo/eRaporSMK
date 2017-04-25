@@ -10,9 +10,9 @@
             <tr>
                 <th style="width:2%" class="text-center"><label><input type="checkbox" id="checkall_atas" title="Select all"/></label></th>
                 <th style="width: 10%">Tahun Pelajaran</th>
-				<th style="width: 20%">Nama Sikap</th>
+				<th style="width: 15%">Kelas / Rombel</th>
+                <th style="width: 20%">Biaya SPP</th>
                 <th style="width: 8%" class="text-center">Tindakan</th>
-
             </tr>
             </thead>
 			<tbody>

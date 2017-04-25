@@ -35,6 +35,25 @@ class Referensi extends Backend_Controller {
 		->set('form_action', 'admin/referensi/simpan')
 		->build($this->admin_folder.'/referensi/_metode');
 	}
+	public function dataspp(){
+		$loggeduser = $this->ion_auth->user()->row();
+		$pilih_rombel = '<a href="'.site_url('admin/referensi/add_dataspp').'" class="btn btn-success" style="float:right;"><i class="fa fa-plus-circle"></i> Tambah Data</a>';
+		$this->template->title('Administrator Panel : Referensi Biaya SPP')
+        ->set_layout($this->admin_tpl)
+        ->set('page_title', 'Referensi Biaya SPP')
+		->set('pilih_rombel', $pilih_rombel)
+        ->build($this->admin_folder.'/referensi/dataspp');
+	}
+	public function add_dataspp(){
+		$this->template->title('Administrator Panel')
+		->set_layout($this->admin_tpl)
+		->set('page_title', 'Tambah Data Biaya SPP')
+		->set('form_action', 'admin/referensi/simpan')
+		->build($this->admin_folder.'/referensi/_dataspp');
+	}
+
+
+
 	public function sikap(){
 		$loggeduser = $this->ion_auth->user()->row();
 		$pilih_rombel = '<a href="'.site_url('admin/referensi/add_sikap').'" class="btn btn-success" style="float:right;"><i class="fa fa-plus-circle"></i> Tambah Data</a>';
@@ -137,6 +156,7 @@ class Referensi extends Backend_Controller {
 		$kd_id = isset($_POST['kd_id']) ? $_POST['kd_id'] : '';
 		$kd_uraian = isset($_POST['kd_uraian']) ? $_POST['kd_uraian'] : '';
 		$butir_sikap = isset($_POST['butir_sikap']) ? $_POST['butir_sikap'] : '';
+		$nilai_spp = isset($_POST['nilai_dataspp']) ? $_POST['nilai_dataspp'] : '';
 		if($query == 'metode'){
 			if($action == 'edit'){
 				$data = Metode::find($id);
@@ -162,6 +182,27 @@ class Referensi extends Backend_Controller {
 				}
 			}
 			redirect('admin/referensi/metode');
+		} elseif($query == 'dataspp'){
+			if($action == 'edit'){
+				$data = Dataspp::find($id);
+				if($data){
+					$data->update_attributes(array('nilai' => $nilai_spp));
+					$this->session->set_flashdata('success', 'Berhasil mengupdate Biaya SPP');
+				}
+			} else {
+				$find = Dataspp::find_by_ajaran_id_and_rombel_id($ajaran_id,$rombel_id);
+				if($find){
+					$this->session->set_flashdata('error', 'Terdeteksi Biaya SPP dengan data sama');
+				} else {
+					$new_data				= new Dataspp();
+					$new_data->ajaran_id	= $ajaran_id;
+					$new_data->rombel_id	= $rombel_id;
+					$new_data->nilai		= $nilai_spp;
+					$new_data->save();
+					$this->session->set_flashdata('success', 'Berhasil menambah  Biaya SPP');
+				}
+			}
+			redirect('admin/referensi/dataspp');
 		} elseif($query == 'sikap'){
 			if($action == 'edit'){
 				$data = Datasikap::find($id);
@@ -511,6 +552,71 @@ class Referensi extends Backend_Controller {
 		}
 		echo json_encode($output);
 	}
+
+
+
+	public function list_dataspp(){
+
+		$loggeduser = $this->ion_auth->user()->row();
+		$search = "";
+		$start = 0;
+		$rows = 25;
+		// get search value (if any)
+		if (isset($_GET['sSearch']) && $_GET['sSearch'] != "" ) {
+			$search = $_GET['sSearch'];
+		}
+		// limit
+		$start = $this->custom_fuction->get_start();
+		$rows = $this->custom_fuction->get_rows();
+		$query = Dataspp::find('all', array('conditions' => "id IS NOT NULL AND (nilai LIKE '%$search%')",'limit' => $rows, 'offset' => $start,'order'=>'id ASC'));
+		$filter = Dataspp::find('all', array('conditions' => "id IS NOT NULL AND (nilai LIKE '%$search%')",'order'=>'id ASC'));
+		$iFilteredTotal = count($query);
+		
+		$iTotal=count($filter);
+	    
+		$output = array(
+			"sEcho" => intval($_GET['sEcho']),
+	        "iTotalRecords" => $iTotal,
+	        "iTotalDisplayRecords" => $iTotal,
+	        "aaData" => array()
+	    );
+		//print_r($get_all_rombel);
+		$i=$start;
+		//print_r($query);
+	    foreach ($query as $temp) {
+			$tahun_ajaran = '-';
+			if($temp->ajaran_id){
+				$ajaran = Ajaran::find($temp->ajaran_id);
+				$tahun_ajaran = $ajaran->tahun;
+			}
+			$rombel= '-';
+				if($temp->rombel_id){
+				$rombeltemp = Datarombel::find($temp->rombel_id);
+				$rombel = $rombeltemp->nama;
+			}
+			$record = array();
+            $tombol_aktif = '';
+			$record[] = '<div class="text-center"><input type="checkbox" class="satuan" value="'.$temp->id.'" /></div>';
+			$record[] = $tahun_ajaran;
+			$record[] = $rombel;
+			$record[] = "Rp " . number_format($temp->nilai,2,',','.');
+			$record[] = '<div class="text-center"><div class="btn-group">
+							<button type="button" class="btn btn-default btn-sm">Aksi</button>
+                            <button type="button" class="btn btn-info btn-sm dropdown-toggle" data-toggle="dropdown">
+								<span class="caret"></span>
+								<span class="sr-only">Toggle Dropdown</span>
+                            </button>
+                            <ul class="dropdown-menu pull-right text-left" role="menu">
+								 <li><a href="'.site_url('admin/referensi/edit_dataspp/'.$temp->id).'" class="toggle-modal"><i class="fa fa-pencil"></i>Edit</a></li>
+								 <li><a href="'.site_url('admin/referensi/delete/dataspp/'.$temp->id).'" class="confirm"><i class="fa fa-power-off"></i>Hapus</a></li>
+                            </ul>
+                        </div></div>';
+			$output['aaData'][] = $record;
+		}
+		
+		echo json_encode($output);
+	}
+
 	public function list_sikap(){
 		$loggeduser = $this->ion_auth->user()->row();
 		$search = "";
@@ -579,6 +685,15 @@ class Referensi extends Backend_Controller {
 		->set('page_title', 'Edit Sikap')
 		->set('form_action', 'admin/referensi/simpan')
 		->build($this->admin_folder.'/referensi/_sikap',$data);
+	}
+
+	public function edit_dataspp($id){
+		$data['data'] = Dataspp::find($id);
+		$this->template->title('Administrator Panel')
+		->set_layout($this->modal_tpl)
+		->set('page_title', 'Edit Data SPP')
+		->set('form_action', 'admin/referensi/simpan')
+		->build($this->admin_folder.'/referensi/_dataspp',$data);
 	}
 	public function kkm(){
 		$pilih_rombel = '<a href="'.site_url('admin/referensi/add_kkm').'" class="btn btn-success" style="float:right;"><i class="fa fa-plus-circle"></i> Tambah Data</a>';
@@ -1400,6 +1515,9 @@ class Referensi extends Backend_Controller {
 				$data->delete();
 			} elseif($query == 'sikap'){
 				$data = Datasikap::find($id);
+				$data->delete();
+			} elseif($query == 'dataspp'){
+				$data = Dataspp::find($id);
 				$data->delete();
 			} elseif($query == 'ekskul'){
 				$data = Ekskul::find($id);

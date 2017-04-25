@@ -31,21 +31,6 @@ $user = $this->ion_auth->user()->row();
                     <i class="fa fa-credit-card"></i> <span>Pembayaran SPP</span>
                 </a>
             </li>
-			<li class="treeview <?php echo (isset($activemenu) && $activemenu == 'config') ?  'active' : ''; ?>">
-                <a href="#">
-                    <i class="fa fa-wrench"></i> <span>Konfigurasi</span>
-					<span class="pull-right-container">
-						<i class="fa fa-angle-left pull-right"></i>
-					</span>
-                </a>
-                <ul class="treeview-menu">
-					<li<?php echo (isset($activemenu) && $activemenu == 'config' && isset($uri[3]) && $uri[3] == 'backup') ?  ' class="active"' : ''; ?>>
-        		        <a href="<?php echo site_url('admin/config/backup'); ?>">
-                	    <i class="fa fa-exchange"></i> <span>Backup &amp; Restore</span>
-		                </a>
-        		    </li>
-				</ul>
-			</li>
 			<li class="treeview <?php echo (isset($activemenu) && $activemenu == 'referensi') ?  'active' : ''; ?>">
                 <a href="#">
                     <i class="fa fa-list"></i> <span>Referensi</span>
@@ -55,62 +40,11 @@ $user = $this->ion_auth->user()->row();
                 </a>
                 <ul class="treeview-menu">
 					<li<?php echo (isset($activemenu) && $activemenu == 'referensi' && isset($uri[2]) && $uri[2] == 'guru') ?  ' class="active"' : ''; ?>>
-        		        <a href="<?php echo site_url('admin/guru'); ?>">
-                	    <i class="fa fa-hand-o-right"></i> <span>Referensi Guru</span>
+        		        <a href="<?php echo site_url('admin/dataspp'); ?>">
+                	    <i class="fa fa-hand-o-right"></i> <span>Referensi SPP</span>
 		                </a>
         		    </li>
-					<li<?php echo (isset($activemenu) && $activemenu == 'referensi' && isset($uri[2]) && $uri[2] == 'rombel') ?  ' class="active"' : ''; ?>>
-        		        <a href="<?php echo site_url('admin/rombel'); ?>">
-                	    <i class="fa fa-hand-o-right"></i> <span>Referensi Rombel</span>
-		                </a>
-        		    </li>
-					<li<?php echo (isset($activemenu) && $activemenu == 'referensi' && isset($uri[2]) && $uri[2] == 'siswa') ?  ' class="active"' : ''; ?>>
-        		        <a href="<?php echo site_url('admin/siswa'); ?>">
-                	    <i class="fa fa-hand-o-right"></i> <span>Referensi Siswa</span>
-		                </a>
-        		    </li>
-					<li<?php echo (isset($activemenu) && $activemenu == 'referensi' && 
-					isset($uri[3]) && $uri[3] == 'mata_pelajaran'
-					|| 
-					isset($uri[3]) && $uri[3] == 'tambah'
-					) ?  ' class="active"' : ''; ?>>
-        		        <a href="<?php echo site_url('admin/referensi/mata_pelajaran'); ?>">
-                	    <i class="fa fa-hand-o-right"></i> <span>Referensi Mata Pelajaran</span>
-		                </a>
-        		    </li>
-					<li<?php echo (isset($activemenu) && $activemenu == 'referensi' && 
-					isset($uri[3]) && $uri[3] == 'kkm' 
-					|| 
-					isset($uri[3]) && $uri[3] == 'add_kkm' 
-					|| 
-					isset($uri[3]) && $uri[3] == 'edit_kkm'
-					) ?  ' class="active"' : ''; ?>>
-        		        <a href="<?php echo site_url('admin/referensi/kkm'); ?>">
-                	    <i class="fa fa-hand-o-right"></i> <span>Referensi KB (KKM)</span>
-		                </a>
-        		    </li>
-					<li<?php echo (isset($activemenu) && $activemenu == 'referensi' && 
-					isset($uri[3]) && $uri[3] == 'ekskul' 
-					|| 
-					isset($uri[3]) && $uri[3] == 'add_ekskul' 
-					|| 
-					isset($uri[3]) && $uri[3] == 'edit_ekskul'
-					) ?  ' class="active"' : ''; ?>>
-        		        <a href="<?php echo site_url('admin/referensi/ekskul'); ?>">
-                	    <i class="fa fa-hand-o-right"></i> <span>Referensi Ekstrakurikuler</span>
-		                </a>
-        		    </li>
-					<li<?php echo (isset($activemenu) && $activemenu == 'referensi' && 
-					isset($uri[3]) && $uri[3] == 'metode' 
-					|| 
-					isset($uri[3]) && $uri[3] == 'add_metode' 
-					|| 
-					isset($uri[3]) && $uri[3] == 'edit_metode'
-					) ?  ' class="active"' : ''; ?>>
-        		        <a href="<?php echo site_url('admin/referensi/metode'); ?>">
-                	    <i class="fa fa-hand-o-right"></i> <span>Referensi Teknik Penilaian</span>
-		                </a>
-        		    </li>
+					
 				</ul>
 			</li>
             <!--li class="treeview <?php echo (isset($activemenu) && $activemenu == 'perencanaan') ?  'active' : ''; ?>">
@@ -220,9 +154,6 @@ $user = $this->ion_auth->user()->row();
             </span>
                 </a>
                 <ul class="treeview-menu">
-					<li<?php echo (isset($activemenu) && $activemenu == 'profil' && isset($uri[3]) && $uri[3] == 'sekolah') ?  ' class="active"' : ''; ?>>
-						<a href="<?php echo site_url('admin/profil/sekolah'); ?>"><i class="fa fa-hand-o-right"></i> Profil Sekolah</a>
-					</li>
 					<li<?php echo (isset($activemenu) && $activemenu == 'profil' && isset($uri[3]) && $uri[3] == 'user') ?  ' class="active"' : ''; ?>>
 						<a href="<?php echo site_url('admin/profil/user'); ?>"><i class="fa fa-hand-o-right"></i> Profil User</a>
 					</li>

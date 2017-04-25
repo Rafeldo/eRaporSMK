@@ -446,3 +446,15 @@ Tambah data pembelajaran, ID:1, User: admin, Waktu :14-04-17 22:47:33
 Tambah data pembelajaran, ID:2, User: admin, Waktu :14-04-17 22:47:33
 Tambah data pembelajaran, ID:3, User: admin, Waktu :14-04-17 22:47:33
 Tambah data pembelajaran, ID:4, User: admin, Waktu :14-04-17 22:47:33
+Tambah data metode penilaian, ID:1, User: waka, Waktu :18-04-17 23:18:32
+Update data pembelajaran, ID:4, User: waka, Waktu :18-04-17 23:21:25
+Tambah data kompetensi dasar, ID:19108, User: Citra Dwi Rosita Agustiningrum, S.Pd, Waktu :18-04-17 23:34:48
+Hapus data rombongan belajar, ID:10, User: admin, Waktu :19-04-17 10:17:11
+Update data pembelajaran, ID:2, User: admin, Waktu :19-04-17 10:18:38
+Update data pembelajaran, ID:1, User: admin, Waktu :19-04-17 10:18:38
+Update data pembelajaran, ID:3, User: admin, Waktu :19-04-17 10:18:38
+Tambah data pembelajaran, ID:5, User: admin, Waktu :19-04-17 10:18:39
+Tambah data pembelajaran, ID:6, User: admin, Waktu :19-04-17 10:18:39
+Update data pembelajaran, ID:4, User: admin, Waktu :19-04-17 10:18:39
+Tambah data pembelajaran, ID:7, User: admin, Waktu :19-04-17 10:18:39
+Tambah data pembelajaran, ID:8, User: admin, Waktu :19-04-17 10:18:39

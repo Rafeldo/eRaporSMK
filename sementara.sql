@@ -42,3 +42,16 @@ INSERT INTO `groups` (`id`, `name`, `description`) VALUES
 (6, 'waka', 'Waka Kurikulum');
 (7, 'kasir', 'Penerimaan Keuangan');
 
+INSERT INTO `a_bulan`(`bulan`) 
+VALUES (`Januari`),
+ (`Februari`),
+ (`Maret`),
+ (`April`),
+ (`Mei`),
+ (`Juni`),
+ (`Juli`),
+ (`Agustus),
+ (`September`),
+ (`Oktober`),
+ (`November`),
+ (`Desember`),
