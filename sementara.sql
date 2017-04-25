@@ -17,6 +17,7 @@ INSERT INTO `users`
 (NULL, '1', NULL, NULL, NULL, '', 'waka', '$2y$07$8T57oe/6LakPLiAcjQWDueu.S/DPaNrAX6SIBoaG3EcA6XtvVBTrS', '', 'waka@gmail.com', NULL, NULL, NULL, NULL, CURRENT_TIMESTAMP, NULL, '1', NULL, '', '', '', '', '0');
 
 
+password admin semua
 INSERT INTO `users`(`id`, `data_sekolah_id`, `username`,  `email`, ) 
 VALUES 
 (2,1,`tu`,`tu@gmail.com`),
