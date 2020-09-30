@@ -7,9 +7,9 @@ AdminLTE	https://almsaeedstudio.com/themes/AdminLTE/index2.html
 Codeigniter	https://codeigniter.com/
 php			http://www.phpactiverecord.org/
 
-tu@gmail.com 	pass admin
-guru@gmail.com 	pass admin
-siswa@gmail.com pass admin
-user@gmail.com 	pass admin
-waka@gmail.com 	pass admin
-kasir@gmail.com pass admin
+tu@gmail.com 	password admin
+guru@gmail.com 	password admin
+siswa@gmail.com password admin
+user@gmail.com 	password admin
+waka@gmail.com 	password admin
+kasir@gmail.com password admin
